@@ -1,0 +1,18 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./index.html",              // Include the root HTML file
+    "./src/**/*.{js,jsx,ts,tsx}" // Include all files in the src directory
+  ],
+  theme: {
+    extend: {
+      colors:{
+        'primary':"#5f6FFF"
+      },
+      gridTemplateColumns:{
+        'auto':'repeat(auto-fill,minmax(200px,1fr))'
+      }
+    },
+  },
+  plugins: [],
+};

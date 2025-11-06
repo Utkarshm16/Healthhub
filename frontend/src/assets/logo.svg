@@ -1,0 +1,21 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stethoscope Icon -->
+  <circle cx="50" cy="50" r="10" fill="#5F6FFF"/>
+  <path d="M50 60 Q70 70 70 50" stroke="#5F6FFF" stroke-width="4" fill="none"/>
+  <circle cx="70" cy="50" r="6" fill="#5F6FFF"/>
+  <path d="M70 50 Q70 20 90 20" stroke="#5F6FFF" stroke-width="4" fill="none"/>
+  <circle cx="90" cy="20" r="5" fill="#5F6FFF"/>
+
+  <!-- Calendar Icon -->
+  <rect x="110" y="30" width="50" height="40" rx="5" fill="#5F6FFF"/>
+  <line x1="110" y1="38" x2="160" y2="38" stroke="white" stroke-width="3"/>
+  <line x1="125" y1="30" x2="125" y2="70" stroke="white" stroke-width="2"/>
+  <line x1="140" y1="30" x2="140" y2="70" stroke="white" stroke-width="2"/>
+  <line x1="110" y1="50" x2="160" y2="50" stroke="white" stroke-width="2"/>
+  <line x1="110" y1="60" x2="160" y2="60" stroke="white" stroke-width="2"/>
+
+  <!-- Text -->
+  <text x="180" y="60" fill="#5F6FFF" font-size="20" font-family="Arial" font-weight="bold">
+    HealthHub
+  </text>
+</svg>

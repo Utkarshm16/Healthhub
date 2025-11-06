@@ -1,0 +1,15 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./index.html",              // Include the root HTML file
+    "./src/**/*.{js,jsx,ts,tsx}" // Include all files in the src directory
+  ],
+  theme: {
+    extend: {
+      colors:{
+        'primary':"#5F6FFF"
+      }
+    },
+  },
+  plugins: [],
+};
